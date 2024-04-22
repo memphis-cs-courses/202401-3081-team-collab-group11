@@ -9,5 +9,12 @@ Rails.application.routes.draw do
   # root "posts#index"
   root 'pages#index'
 
+
   get 'z0faas', to: 'pages#z0faas', as: 'z0faas'
+
+  get 'shalin', to: 'pages#shalin', as: 'shalin'
+
+  get 'alissamartini', to: 'pages#alissamartini', as: 'alissamartini'
+
+
 end
