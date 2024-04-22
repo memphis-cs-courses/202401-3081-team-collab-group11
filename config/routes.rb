@@ -8,4 +8,13 @@ get 'username', to: 'pages#username', as: 'username'
   # Defines the root path route ("/")
   # root "posts#index"
   root 'pages#index'
+
+
+  get 'z0faas', to: 'pages#z0faas', as: 'z0faas'
+
+  get 'shalin', to: 'pages#shalin', as: 'shalin'
+
+  get 'alissamartini', to: 'pages#alissamartini', as: 'alissamartini'
+
+
 end
