@@ -11,3 +11,6 @@ class PagesController < ApplicationController
   def alissamartini
   end
 end
+
+def username
+end
