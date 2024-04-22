@@ -2,6 +2,6 @@ class PagesController < ApplicationController
   def index
   end
 
-  def AlissaMartini
+  def alissamartini
   end
 end
