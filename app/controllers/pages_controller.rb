@@ -1,7 +1,7 @@
 class PagesController < ApplicationController
   def index
   end
-  def Shalin_Maria
-    render :Shalin_Maria
+  def shalin
+    render :shalin
   end
 end
